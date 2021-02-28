@@ -1,11 +1,16 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: /assets/img/12.jpg
+title: Cylon
+description: High performance data engineering everywhere!
+img: /assets/img/cylon_logo.png
 importance: 1
 ---
 
+A distributed high performance data engineering framework based on [Apache Arrow](https://arrow.apache.org/) format, with a *C++* backend and a Python frontend using Cython wrappers.
+
+Visit Cylon website [here!](https://cylondata.org)
+
+<!-- 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
 Make your photos 1/3, 2/3, or full width.
@@ -74,4 +79,4 @@ Here's the code for the last row of images above:
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/11.jpg' | relative_url }}" alt="" title="example image"/>
     </div>
 </div>
-```
+``` -->

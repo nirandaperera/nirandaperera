@@ -1,11 +1,17 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image
-img: /assets/img/3.jpg
+title: Twister2
+description: Flexible, High performance data processing!
+img: /assets/img/twister2.png
 importance: 2
 ---
 
+A Java based composable Big Data toolkit for cloud and high performance computing infrastructure.
+
+Visit Twister2 website [here!](https://twister2.org)
+
+
+<!-- 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
 Make your photos 1/3, 2/3, or full width.
@@ -74,4 +80,4 @@ Here's the code for the last row of images above:
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/11.jpg' | relative_url }}" alt="" title="example image"/>
     </div>
 </div>
-```
+``` -->

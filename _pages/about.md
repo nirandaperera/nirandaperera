@@ -2,7 +2,8 @@
 layout: about
 title: about
 permalink: /
-description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
+description: <i>...an engineer turned scholar with a keen interest in HPC & Data Engineering</i>
+#<a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
@@ -28,10 +29,14 @@ Hi, welcome to my webpage!
 I am Niranda Perera and I am currently reading for my PhD in Intelligent Systems Engineering (ISE) at Indiana University Bloomington, USA. I am being advised by [Prof. Geoffrey Fox](https://luddy.indiana.edu/contact/profile/?profile_id=203)
 
 
-### Research Interests
+#### Research Interests
 
 - High Performance Engineering (HPC)
 - Data Engineering
 - *Dataframes*
 - Distributed Programming
 - Distributed Deep Learning
+
+<!-- #### Resume 
+
+You can access my resume from [**here**](/assets/pdf/niranda_resume.pdf) -->
